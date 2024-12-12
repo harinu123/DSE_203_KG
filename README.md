@@ -1,4 +1,4 @@
-# OntologyMatching
+# LSH instructions 
 
 ## Overview
 
